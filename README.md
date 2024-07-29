@@ -19,14 +19,14 @@ This project utilizes various regression techniques to predict house prices base
 
 - `model.py`: Code for training and evaluating the regression models.
 - `app.py`: Streamlit application for interactive predictions.
-- `data/`: (Optional) Folder containing the Iowa Housing dataset.
+- `LOWA_dataset/`: (Optional) Folder containing the Iowa Housing dataset.
 - `requirements.txt`: Dependencies for running the code.
 
 ## Getting Started
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/IowaHousingPricePredictor.git
+   https://github.com/mohamedmamdouh20/HousePricePrediction-Iowa.git
    ```
 
 2. **Install dependencies**:
