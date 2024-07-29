@@ -17,7 +17,7 @@ This project utilizes various regression techniques to predict house prices base
 
 ## Files
 
-- `model.py`: Code for training and evaluating the regression models.
+- `main.py`: Code for training and evaluating the regression models.
 - `app.py`: Streamlit application for interactive predictions.
 - `LOWA_dataset/`: Folder containing the Iowa Housing dataset.
 - `requirements.txt`: Dependencies for running the code.
