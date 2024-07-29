@@ -11,7 +11,7 @@ This project utilizes various regression techniques to predict house prices base
 
 ## Evaluation Metrics
 
-- **R-squared Score**: 0.9
+- **R-squared Score**
 - **Mean Squared Error (MSE)**
 - **Mean Absolute Error (MAE)**
 
@@ -19,7 +19,7 @@ This project utilizes various regression techniques to predict house prices base
 
 - `model.py`: Code for training and evaluating the regression models.
 - `app.py`: Streamlit application for interactive predictions.
-- `LOWA_dataset/`: (Optional) Folder containing the Iowa Housing dataset.
+- `LOWA_dataset/`: Folder containing the Iowa Housing dataset.
 - `requirements.txt`: Dependencies for running the code.
 
 ## Getting Started
